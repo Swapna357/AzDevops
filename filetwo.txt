@@ -1,0 +1,9 @@
+Devops
+Azure
+Linux
+Vs code
+Terraform
+ARM Template
+Powershell
+Putty
+GIT Hub
