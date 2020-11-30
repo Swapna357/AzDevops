@@ -1,0 +1,7 @@
+resources
+rg
+vm
+vnet
+avset
+vpn gw
+storage
